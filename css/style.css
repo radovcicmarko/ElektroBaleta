@@ -1011,4 +1011,19 @@ a:focus {
 .box-center-items {
   justify-content: center;
 }
+
+.box-space-between {
+  justify-content: space-between;
+}
+
+.info_contact > span {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-width: 200px;
+  text-align: center;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
 /*# sourceMappingURL=style.css.map */
