@@ -1007,4 +1007,8 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+.box-center-items {
+  justify-content: center;
+}
 /*# sourceMappingURL=style.css.map */
