@@ -4,7 +4,10 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
-
+a:visited, a:link {
+  color: white !important;
+  font-weight:bold;
+}
 .layout_padding {
   padding: 90px 0;
 }
